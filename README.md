@@ -1,4 +1,4 @@
-# setupProject — OpenAgent
+# OpenAgent
 
 Hava boşluklu Windows istemcileri için **Merkezi LLM (Ollama) + tek `.exe` istemci** kurulum otomasyonu.
 
